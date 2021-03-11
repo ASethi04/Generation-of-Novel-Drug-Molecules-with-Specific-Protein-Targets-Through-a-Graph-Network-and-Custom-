@@ -1,5 +1,5 @@
 from model import CVAE
-from utils import *
+from utility_funcs import *
 import numpy as np
 import os
 import tensorflow as tf
