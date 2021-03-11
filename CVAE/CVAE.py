@@ -6,7 +6,7 @@ import tensorflow as tf2
 import tensorflow_addons as tfa
 import numpy as np
 import threading
-from utils import *
+from utility_funcs import *
 from rdkit import Chem
 from rdkit.Chem.Descriptors import ExactMolWt
 from rdkit.Chem.Crippen import MolLogP
